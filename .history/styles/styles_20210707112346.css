@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+
+ 
+}   
+ .div-header{
+        background-color: chartreuse;
+       display: flex;
+       justify-content: space-between;
+}
+
+.logo{
+    background-color: #343434;
+    margin: 15px;
+}
+
+.menu{
+    background-color: #567856;
+}
+
+.div-title{
+    background-color: rgb(124, 31, 31);
+    display: flex;
+    justify-content: center;
+}

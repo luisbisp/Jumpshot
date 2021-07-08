@@ -1,0 +1,45 @@
+ *{
+    font-family: 'Poppins', sans-serif;
+ }
+ header {
+     background-color: #14213d;
+     height: 435px;
+     color: #fca311;
+ }
+ .div-header{
+       display: flex;
+       justify-content: space-between;
+}
+
+.logo{
+    margin: 15px;
+}
+
+.navbar-custom{  
+    color: #fca311;
+    margin: 15px;
+}
+
+.div-banner{
+    display: flex;
+    justify-content: center;
+}
+.banner{
+    height:300px;
+}
+
+.div-title{
+    display: flex;
+    justify-content: space-between;
+    margin: 15px;
+}
+
+.content{
+    display: flex;
+    
+}
+
+.div-image{
+    background-color: #567856;
+    margin: 15px;
+}

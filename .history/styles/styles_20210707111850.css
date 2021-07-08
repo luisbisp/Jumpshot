@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+
+ 
+}   
+ .div-header{
+        background-color: chartreuse;
+       
+}
+
+.logo{
+    background-color: #343434;
+    width: 100px;
+}
+
+.menu{
+    background-color: #567856;
+}

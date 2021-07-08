@@ -1,0 +1,34 @@
+ header {
+     background-color: #d5d5d5;
+     height: 400px;
+ }
+ .div-header{
+       display: flex;
+       justify-content: space-between;
+}
+
+.logo{
+    color: #fff;
+    margin: 15px;
+}
+
+.menu{
+    background-color: #567856;
+    margin: 15px;
+}
+
+.div-title{
+    display: flex;
+    justify-content: center;
+    margin: 15px;
+}
+
+.content{
+    display: flex;
+    
+}
+
+.div-image{
+    background-color: #567856;
+    margin: 15px;
+}
